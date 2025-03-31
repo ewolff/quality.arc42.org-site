@@ -74,7 +74,7 @@ I'm:
 * Thanx to 
   [Remko Plantenga @exde3297](https://github.com/exde3297), 
   [Martin Weck @martinweck](https://github.com/martinweck), 
-  [Eberhard Wolff @ewolff](https://github.com/PapaBravo),
+  [Eberhard Wolff @ewolff](https://github.com/ewolff),
   [Paul Boeck @PapaBravo](https://github.com/PapaBravo),
   [Dean de Bree @ddebree](https://github.com/ddebree),
   [Markus Stier @mstier](https://github.com/mstier) 
